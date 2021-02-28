@@ -2,5 +2,5 @@
 
 ## Aplicativo .Net
 
-### Simples aplicativo console Orientado a objeto em .Net de transferencia báncaria.
-### Ele tem as  operações bancárias como , inserir, transferir, sacar, depositar e mostrar saldo total.
+### Simples aplicativo console Orientado a objeto em .Net com a utilização e enums, de operações báncaria.
+### Ele tem as operações como , inserir, transferir, sacar, depositar e mostrar saldo total.
