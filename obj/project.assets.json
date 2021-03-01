@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\ProjetosDio\\Dio.Banco\\Dio.Banco.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\ContaBancaria\\Dio.Banco.csproj",
       "projectName": "Dio.Banco",
-      "projectPath": "C:\\Users\\Carlos\\Desktop\\ProjetosDio\\Dio.Banco\\Dio.Banco.csproj",
+      "projectPath": "C:\\Users\\Carlos\\Desktop\\ContaBancaria\\Dio.Banco.csproj",
       "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos\\Desktop\\ProjetosDio\\Dio.Banco\\obj\\",
+      "outputPath": "C:\\Users\\Carlos\\Desktop\\ContaBancaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

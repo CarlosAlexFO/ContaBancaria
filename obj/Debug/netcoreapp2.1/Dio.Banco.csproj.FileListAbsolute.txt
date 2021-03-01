@@ -9,3 +9,14 @@ C:\Users\Carlos\Desktop\ProjetosDio\Dio.Banco\obj\Debug\netcoreapp2.1\Dio.Banco.
 C:\Users\Carlos\Desktop\ProjetosDio\Dio.Banco\obj\Debug\netcoreapp2.1\Dio.Banco.AssemblyInfo.cs
 C:\Users\Carlos\Desktop\ProjetosDio\Dio.Banco\obj\Debug\netcoreapp2.1\Dio.Banco.dll
 C:\Users\Carlos\Desktop\ProjetosDio\Dio.Banco\obj\Debug\netcoreapp2.1\Dio.Banco.pdb
+C:\Users\Carlos\Desktop\ContaBancaria\bin\Debug\netcoreapp2.1\Dio.Banco.deps.json
+C:\Users\Carlos\Desktop\ContaBancaria\bin\Debug\netcoreapp2.1\Dio.Banco.runtimeconfig.json
+C:\Users\Carlos\Desktop\ContaBancaria\bin\Debug\netcoreapp2.1\Dio.Banco.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\ContaBancaria\bin\Debug\netcoreapp2.1\Dio.Banco.dll
+C:\Users\Carlos\Desktop\ContaBancaria\bin\Debug\netcoreapp2.1\Dio.Banco.pdb
+C:\Users\Carlos\Desktop\ContaBancaria\obj\Debug\netcoreapp2.1\Dio.Banco.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\ContaBancaria\obj\Debug\netcoreapp2.1\Dio.Banco.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\ContaBancaria\obj\Debug\netcoreapp2.1\Dio.Banco.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\ContaBancaria\obj\Debug\netcoreapp2.1\Dio.Banco.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\ContaBancaria\obj\Debug\netcoreapp2.1\Dio.Banco.dll
+C:\Users\Carlos\Desktop\ContaBancaria\obj\Debug\netcoreapp2.1\Dio.Banco.pdb

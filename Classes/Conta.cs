@@ -27,21 +27,28 @@ namespace Dio.Banco
         public bool Sacar(double valorSaque)
         {
             //validar saldo insuficiente
-            if (this.Saldo - valorSaque <(this.Credito * - 1))
+            if (this.Saldo - valorSaque < (this.Credito * - 1))
             {
                Console.WriteLine("Saldo Insuficiente para saque!");
+                Console.WriteLine("----------");
                 return false;
+             
             }
 
-            //this.Saldo = - valorSaque;
-            this.Saldo = this.Saldo - valorSaque;
-            Console.WriteLine("O Saldo atual da conta de {0} é {1}", this.Nome, this.Saldo);
-            return true;
-        }
 
+            this.Saldo = this.Saldo - valorSaque;
+            this.SaldoTotal = this.SaldoTotal -valorSaque;
+            Console.WriteLine("O Saldo Total atual da conta de {0} é {1}", this.Nome, this.SaldoTotal);
+            Console.WriteLine("O Saldo atual da conta de {0} é {1}", this.Nome, this.Saldo);
+            Console.WriteLine("----------");
+            return true;
+          
+        }
+        
         public void Depositar(double valorDeposito)
         {
             this.Saldo += valorDeposito;
+            Console.WriteLine("O Saldo Total atual da conta de {0} é {1}", this.Nome, this.SaldoTotal);
             Console.WriteLine("O Saldo atual da conta de {0} é {1}", this.Nome, this.Saldo);
         }
 
@@ -63,6 +70,7 @@ namespace Dio.Banco
             retorno += " Saldo Total: " + this.SaldoTotal;
             return retorno;
         }
+
 
     }
 }
